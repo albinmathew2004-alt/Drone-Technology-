@@ -17,21 +17,6 @@ This project involves the virtual testing and simulation of a drone mission usin
 
 ---
 
-## 📸 Mission Visuals
-
-### 1. Pre-Flight Configuration
-The initial setup showing the drone in a **DISARMED** state, confirming GPS Lock and EKF health before takeoff.
-![Initial Setup](Screenshots/Screenshot_171319.jpg)
-
-### 2. Waypoint Navigation
-The drone actively following the planned path at a ground speed of **10 m/s**.
-![Mission Path](Screenshots/Screenshot_171444.jpg)
-
-### 3. Telemetry & Flight Data
-Real-time monitoring of altitude (21m) and heading alignment during the simulation.
-![Telemetry Data](Screenshots/Screenshot_171515.jpg)
-
----
 
 ## ⚙️ Technical Specifications
 * **Firmware:** ArduCopter V4.6.0-dev (Quadcopter)
